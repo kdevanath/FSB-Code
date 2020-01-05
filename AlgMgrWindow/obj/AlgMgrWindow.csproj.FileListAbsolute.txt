@@ -1,0 +1,14 @@
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\bin\Debug\AlgMgrWindow.exe.config
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\bin\Debug\AlgMgrWindow.exe
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\bin\Debug\AlgMgrWindow.pdb
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\bin\Debug\ObjectListView.dll
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\bin\Debug\ObjectListView.pdb
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\ResolveAssemblyReference.cache
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.AlgParams.resources
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.AlgMgrForm.resources
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.LoginForm.resources
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.Properties.Resources.resources
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.SpreadViewer.resources
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.csproj.GenerateResource.Cache
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.exe
+C:\FSB\prod.tt\AlgMgrWindow\AlgMgrWindow\obj\Debug\AlgMgrWindow.pdb
