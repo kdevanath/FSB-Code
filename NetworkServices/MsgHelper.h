@@ -1,0 +1,26 @@
+#ifndef _YAMMER_MSG_HELPER_H_
+#define _YAMMER_MSG_HELPER_H_
+
+#include <string>
+#include <vector> 
+#include "NetworkservicesExport.h"
+
+namespace Yammer {
+
+  using std::string;
+  using std::vector;
+
+  // Helper functions to write primitive types and std string into a
+  // vector<char> buffer and perform network byte order conversion.
+ 
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, char val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, bool val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, int val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, long val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, size_t val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, double val);
+  MYLIB_DLLAPI vector<char> &operator<<(vector<char> &buffer, const string &val);
+
+}
+
+#endif
